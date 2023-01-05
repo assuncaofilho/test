@@ -1,1 +1,1 @@
-user 2 alterou o text e commitou.
+alterei o arquivo text.
