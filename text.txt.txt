@@ -1,1 +1,1 @@
-user 2 alterou o text e commitou.
+alterando texto para gerar conflito em user1.
