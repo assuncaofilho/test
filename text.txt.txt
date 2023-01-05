@@ -1,1 +1,1 @@
-alterando texto para gerar conflito em user1.
+new changes into user1.
